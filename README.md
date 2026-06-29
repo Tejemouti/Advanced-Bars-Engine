@@ -109,13 +109,13 @@ bars = make_bars(
 
 ## Supported Bar Types
 
-| Bar Type | Parameter Example                     |
-| -------- | ------------------------------------- |
-| Time     | `"1min"`, `"5min"`, `"15min"`, `"1H"` |
-| Daily    | `"daily"`                             |
-| Tick     | `1000`                                |
-| Volume   | `5000`                                |
-| Dollar   | `50000`                               |
+| Bar Type | Parameter Example                             |
+| -------- | ------------------------------------- --------|
+| Time     | `"1min"`, `"5min"`, `"15min"`, `"1H"`,......  |
+| Daily    | `"daily"`                                     |
+| Tick     | `1000`                                        |
+| Volume   | `5000`                                        |
+| Dollar   | `50000`                                       |
 
 ---
 
